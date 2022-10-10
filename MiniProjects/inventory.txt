@@ -1,0 +1,6 @@
+Americano,3.50
+Cappucino,4.50
+Mocha,4.00
+Espresso,3.00
+Flat-White,3.30
+Latte,4.50
